@@ -1,0 +1,16 @@
+Description:
+This repository contains a simple login page implementation with a captcha feature, designed for web applications. The login page is built using HTML, CSS, and JavaScript, and it incorporates a captcha system to enhance security and prevent automated attacks. Users can enter their username, solve a captcha challenge, and then proceed to log in.
+
+Key Features:
+
+Clean and responsive design for a user-friendly experience.
+Captcha system to protect against automated login attempts.
+Utilizes Font Awesome for a visually appealing refresh icon.
+SweetAlert2 integration for enhanced alert messages.
+Easily customizable for integration into various web projects.
+How to Use:
+
+Clone the repository to your local machine.
+Open the index.html file in a web browser.
+Enter a username, solve the captcha, and click the login button.
+Experience the login process with captcha validation.
